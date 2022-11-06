@@ -49,7 +49,7 @@ create table cost(
  )
 ;
 insert into cost VALUES
-	('Salmon Roll',110.9),
+    ('Salmon Roll',110.9),
     ('Tonkatsu',135.8),
     ('Hamburger',60.5),
     ('Salmon Sushi',17.6),
@@ -63,7 +63,7 @@ CREATE table sales(
  )
  ;
  insert into sales VALUES
- 	(1,'Day Shift','Marry'),
+    (1,'Day Shift','Marry'),
     (2,'Day Shift','Vivy'),
     (3,'Night Shift','Tom'),
     (4,'Night Shift','Bob')   
@@ -79,14 +79,14 @@ create table payment(
 ;
 
 SELECT
-		menu,
-		count(*) as n_items,
+	menu,
+	count(*) as n_items,
         SUM(net_price),
         round(SUM(net_price)-(cost_unit * count(*)),2) AS net_profit
         
 FROM
 (select	
-  		orders.order_id,
+  	orders.order_id,
     	orders.order_date,
         orders.items as menu,
     	orders.net_price as net_price,
@@ -96,17 +96,17 @@ FROM
     	sales.sale_name,
     	membership.email as email_customers
 	FROM orders 
-		JOIN cost 			   on orders.items = cost.items
-		JOIN payment 	   on orders.payment_methods = payment.payment_methods
-		join sales 			  on orders.sales_id = sales.sales_id
-		JOIN membership  on orders.customer_id = membership.customer_id
+		JOIN cost 	on orders.items = cost.items
+		JOIN payment 	on orders.payment_methods = payment.payment_methods
+		join sales 	on orders.sales_id = sales.sales_id
+		JOIN membership on orders.customer_id = membership.customer_id
 ) as sub
 group by 1
 order by 2 DESC
 ;
 
 select 
-	strftime('%Y%m', orders.order_date) AS month_id,
+    strftime('%Y%m', orders.order_date) AS month_id,
     sum(net_price) as amount,
     count(*) as n_bill
 from orders
@@ -114,7 +114,7 @@ GROUP by 1
 ;
 
 SELECT  
-	customer_name,
+    customer_name,
     count(*) as frequency,
     sum(orders.net_price) AS amount,
     email,
