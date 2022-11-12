@@ -21,7 +21,7 @@ We learn 10 sprints during 4 months program.
 #### `Machine Learning`
 #### `Python`
   Self homework
-   - User play minigame with Bot (Rock Papaer Scissors).✊✌✋ and (OOP) ATM Class.🏧💵  https://datalore.jetbrains.com/view/notebook/pQfOjhKkmU1WDEDreH0ZEc
+   - User play minigame with Bot (Rock Papaer Scissors).✊✌✋ and (OOP) ATM Class.🏧💵  https://datalore.jetbrains.com/view/notebook/4ox28uA75sXWQWJj9wAwJ1
    - Analyzing Sales Data with PANDAS.🏪🛒🛍 https://datalore.jetbrains.com/view/notebook/8X4t2lJHLToddicrlkhTO5
 #### `Dashboard`
 
