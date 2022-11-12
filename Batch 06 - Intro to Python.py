@@ -1,22 +1,9 @@
-#Homework 1 PAO YING CHUB PYTHON use input()
-#ATM Class => at least 5 methods
-
-
-
 # -- Homework- Intro to Python --
-
-# # Intro to Python
 # Sirinthip Ngamchaluay (Fern)
-
-
 # Homework 1 **PAO YING CHUB**
-# 
 # Homework 2 **`(OOP)` ATM Class** at least 5 methods
 
-
 # ## Pao Ying Chub (Rock Paper Scissers) ✊🤞✋
-
-
 import random
 choice = [0,1,2]
 user_win = 0
@@ -52,8 +39,6 @@ else:result='Tie'
 print(f"Summarise the result of Rock Paper Scissers: {result}")
 
 # ## `(OOP)` ATM Class *(at least 5 methods)*
-
-
 class ATM:
     def __init__(self, names, balance: float, password: str):
         self.names = names
