@@ -20,6 +20,8 @@ We learn 10 sprints during 4 months program.
   Self homework - Predicted Survived or Died with Titanic_train dataset in R package🚢⚓, by logistic regression. https://datalore.jetbrains.com/view/notebook/LJk7MVBBHb06NrktDZuY8r
 #### `Machine Learning`
 #### `Python`
-  Self homework - Analyzing Sales Data with PANDAS.🏪🛒🛍 https://datalore.jetbrains.com/view/notebook/8X4t2lJHLToddicrlkhTO5
+  Self homework
+   - User play minigame with Bot (Rock Papaer Scissors).✊✌✋ and (OOP) ATM Class.🏧💵  https://datalore.jetbrains.com/notebook/QISjbnftvoJpOoxiJI2TdY/RDcXTrux6SFfcXXWGQonst/
+   - Analyzing Sales Data with PANDAS.🏪🛒🛍 https://datalore.jetbrains.com/view/notebook/8X4t2lJHLToddicrlkhTO5
 #### `Dashboard`
 
