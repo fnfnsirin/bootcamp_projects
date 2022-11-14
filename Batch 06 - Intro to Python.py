@@ -36,7 +36,7 @@ print(f"Tie: {tie}")
 if user_win+tie > bot_win+tie:result='User win!'
 elif bot_win+tie > user_win+tie:result='Bot win!'
 else:result='Tie'
-print(f"Summarise the result of Rock Paper Scissers: {result}")
+print(f"Summarise the result of Rock Paper Scissors: {result}")
 
 # ## `(OOP)` ATM Class *(at least 5 methods)*
 class ATM:
