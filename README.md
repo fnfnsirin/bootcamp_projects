@@ -1,6 +1,6 @@
 # Bootcamp Projects
-#### Data Science bootcamp batch 6 with `adToy` Datarockie
-We learn 10 sprints during 4 months program. Please click links to view my shortly projects. 🤓
+#### Data Science bootcamp batch 6 with `adToy` Datarockie  :octocat:
+We learn 10 sprints during 4 months program. Please click links to view my shortly projects. 
 
 - [x] `Spredsheets`
   Self homework - *https://docs.google.com/spreadsheets/d/1C6NGkTmWNGuBsYI0H5gC9fcGg7znzVpaOUY0kxgiLu0/edit?usp=drivesdk*
@@ -28,4 +28,7 @@ We learn 10 sprints during 4 months program. Please click links to view my short
       *https://datalore.jetbrains.com/view/notebook/sqbk4RMLloEN5QIDQL3Xu3*
 - [ ] `Dashboard`
   Coming soon.📊🤍
+
+
+
 
