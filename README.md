@@ -20,8 +20,13 @@ We learn 10 sprints during 4 months program. Please click links to view my short
 #### `Machine Learning`
 #### `Python`
   Self homework
-   - User play minigame with Bot (Rock Papaer Scissors).✊✋✌️ and (OOP) ATM Class.🏧💵  *https://datalore.jetbrains.com/view/notebook/4ox28uA75sXWQWJj9wAwJ1*
-   - Analyzing Sales Data with PANDAS.🐼🏷️🧾 *https://datalore.jetbrains.com/view/notebook/8X4t2lJHLToddicrlkhTO5*
+   - User play minigame with Bot (Rock Papaer Scissors).✊✋✌️ and (OOP) ATM Class.🏧💵  
+      *https://datalore.jetbrains.com/view/notebook/4ox28uA75sXWQWJj9wAwJ1*
+   - Analyzing Sales Data with PANDAS.🐼🏷️🧾 
+      *https://datalore.jetbrains.com/view/notebook/8X4t2lJHLToddicrlkhTO5*
+   - Get API Star Wars, scrape and bulid dataframe.💫 
+   - Build simple ML model using Regression/ Classification sklearn with dataset BreastCancer.🎗
+      *https://datalore.jetbrains.com/view/notebook/sqbk4RMLloEN5QIDQL3Xu3*
 #### `Dashboard`
-  Coming soon.🦭🦭🦭🌊🫧
+  Coming soon.📊🤍
 
