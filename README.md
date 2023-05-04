@@ -13,7 +13,7 @@ We learn 10 sprints during 4 months program. Please click links to view my short
 - [x] `Data Transformation` with R
   - Analyze NYC flights 2013.🛩️  *https://datalore.jetbrains.com/view/notebook/iayzt5dsG3VVyP7jRvhMBZ*
 - [x] `Data Visualization`
-  - Exploratory data analysis with diamonds dataset. *https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8ee74b6b-31c4-445c-abf7-e65ae4299c06/HW_DataVisualization_Fern.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221109%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221109T161142Z&X-Amz-Expires=86400&X-Amz-Signature=cba3d5b111a066580316764493705182bd9cca751ed6a956868ff940720a2856&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22HW_DataVisualization_Fern.pdf%22&x-id=GetObject*
+  - Exploratory data analysis with diamonds dataset. *https://drive.google.com/file/d/1KZEYM7QxNDgRWRdtCVzagn0CYdQVK5IJ/view?usp=share_link*
 - [x] `Statistics`
   - Predicted survived or died with titanic_train by logistic regression. *https://datalore.jetbrains.com/view/notebook/LJk7MVBBHb06NrktDZuY8r*
 - [x] `Machine Learning`
